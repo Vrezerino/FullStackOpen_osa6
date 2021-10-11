@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div.container {
+	color: rgb(9, 102, 48);
+	width: 50%;
+	margin: 0 auto
+}
+
+h2 {
+	color: black;
+	text-shadow: 0.05em 0 0 red,
+	-0.02em 0.03em 0 green,
+	0.08em -0.04em 0 blue;
+	margin: 2px;
+	text-align: center;
+}
+
+.anecdote {
+	margin: 0 0 1em 0;
+}
+
+.anecdoteForm, .filterInput {
+	text-align: center;
+}
+
+.voteInfo {
+	color: rgb(182, 122, 184);
+	font-size: smaller;
+	font-style: italic;
+}
+
+#voteBtn, #postBtn {
+	font-weight: bold;
+	border-radius: 5px;
+	color: green;
+	margin: 0 0 0 4px;
+	padding: 0;
+}

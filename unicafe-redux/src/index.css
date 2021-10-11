@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div.container {
+	color: rgb(9, 102, 48);
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	text-shadow: 0.05em 0 0 red,
+	-0.02em 0.03em 0 green,
+	0.08em -0.04em 0 blue;
+	margin: 2px;
+}
+
+#goodBtn {
+	color: green;
+}
+
+#badBtn {
+	color: red;
+}
