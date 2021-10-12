@@ -11,9 +11,6 @@ const AnecdoteForm = (props) => {
 		const content = anecdoteRef.current.value
 		props.addAnecdote(content)
 		props.setNotif(`You added: "${content}"`, 5)
-		setTimeout(() => {
-			props.setNotif(null)
-		}, 5000)
 	}
 
 	return (
