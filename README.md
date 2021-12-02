@@ -1,3 +1,3 @@
-# Full Stack Open 2021 osan 6 vastaukset
+# Full Stack Open 2021 part 6 answers
 
-Luonnollisesti: älä kopioi vastauksia.
+Naturally, do not copy these answers.
